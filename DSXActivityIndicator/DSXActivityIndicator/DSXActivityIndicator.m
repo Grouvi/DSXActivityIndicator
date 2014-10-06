@@ -10,7 +10,7 @@
 
 static NSString * const indicatorImageFilename = @"ResourceBundle.bundle/spinnerTemplate.png";
 
-static const CGRect defaultBounds = {{0,0},{40,40}};
+static const CGRect defaultBounds = {{0,0},{12,12}};
 static NSTimeInterval const defaultRotationDuration = 1.0;
 
 @interface DSXActivityIndicator ()
